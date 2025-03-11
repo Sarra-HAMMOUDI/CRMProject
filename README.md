@@ -1,10 +1,4 @@
-# CRM System
 
-This repository contains the source code and documentation for a Customer Relationship Management (CRM) system built using Java (Spring Boot) for the backend and MySQL for the database. The project also includes UML diagrams, SQL queries, and detailed descriptions to showcase system design and functionality.
-## Folder Structure
-The repository is organized as follows:
-/CRM-Project
-│
 ├── /docs
 │   ├── /uml
 │   │   ├── UseCaseDiagram.png
